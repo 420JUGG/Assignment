@@ -1,0 +1,11 @@
+body {
+  display:block;
+  justify-content:center;
+  align-items:center;
+  width: 100%;
+  overflow:hidden;
+}
+h2,p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
