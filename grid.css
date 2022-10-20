@@ -1,0 +1,22 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 150px 150px 150px;
+    background-color: blue;
+    justify-content: space-around;
+    height: 500px;
+    align-content: center;
+    overflow: hidden;
+}
+
+.grid-item {
+    background-color: black;
+    padding: 10px 10px 10px 10px;
+    height: 300px;
+}
+
+.b {
+    background-color: rgb(48, 5, 117);
+    padding:5% 5% 5% 5%;
+    border-radius: 35% ;
+}
