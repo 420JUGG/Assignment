@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .cointainer {
+    position:absolute;
+    height:100%;
+    width:100%;
+  }
+  .formbox {
+    width: 380px;
+      height: 600px;
+      position: relative;
+      margin: 6% auto;
+      padding: 5px;
+      overflow: hidden;
+  }
+  .buttonn{
+    width:80px;
+    height:70px;
+    border-radius: 50% 50% 50% 50%;
+  }
+  
+  
